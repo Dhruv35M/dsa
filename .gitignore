@@ -1,4 +1,2 @@
-*.out
-*.exe
-/data-structure/array/*.exe
-/data-structure/array/*.out
+.vscode
+run
